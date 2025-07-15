@@ -10,4 +10,7 @@ function update (data)
     return balance;
 }
 
-console.log("hello world");
+// while(true)
+{
+    console.log("hello world");
+}

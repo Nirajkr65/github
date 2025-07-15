@@ -102,8 +102,10 @@ git show <hash>
 
 
 <!-- Revert the changes -->
-git reset --hard <hashCode>
-git revert <hashcode>
+<!-- backs head on its previos position in the master branch. -->
+1->git reset --hard <hashCode> 
+<!-- used for deleting any particular position in the master branch. -->
+2->git revert <hashcode> 
 
 
 
