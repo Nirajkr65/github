@@ -15,5 +15,10 @@ console.log("hello world");
 
 console.log("AI Engineers are in heavy demand");
 
+function bug(data)
+{
+    console.log("bugs are good");
+}
+
 
 console.log("i am main branch")
