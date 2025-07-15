@@ -10,7 +10,7 @@ function update (data)
     return balance;
 }
 
-// while(true)
-{
-    console.log("hello world");
-}
+
+console.log("hello world");
+
+console.log("AI Engineers are in heavy demand");
