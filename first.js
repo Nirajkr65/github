@@ -9,4 +9,5 @@ function update (data)
     balance+=data;
     return balance;
 }
-console.log(update(500));
+
+console.log("hello world");
