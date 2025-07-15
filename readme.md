@@ -84,7 +84,6 @@ q for exit
 <!--Add file to staging area  -->
 git add .
 
-
 <!--Commit file -->
 git commit -m "message"
 
