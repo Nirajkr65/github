@@ -22,3 +22,8 @@ function bug(data)
 
 
 console.log("i am main branch");
+
+
+console.log("mera naam niraj hai");
+
+console.log("niraj hai mera naam");
