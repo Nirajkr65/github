@@ -21,4 +21,4 @@ function bug(data)
 }
 
 
-console.log("i am main branch")
+console.log("i am main branch");
